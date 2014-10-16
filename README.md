@@ -3,7 +3,7 @@ CrystalSim
 
 Where has this been used?
 -------------------------
-[![DOI](https://zenodo.org/badge/6651/TheMartinLab/CrystalSim.png)](http://dx.doi.org/10.5281/zenodo.12264)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.12265.png)](http://dx.doi.org/10.5281/zenodo.12265)
 
 **Manuscript title** "Crystal Growth Simulations To Establish Physically 
 Relevant Kinetic Parameters from the Empirical Kolmogorov–Johnson–Mehl–Avrami Model". 
